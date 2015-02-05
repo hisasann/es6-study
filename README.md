@@ -1,4 +1,4 @@
-﻿:lipstick: ES6 study :lipstick:
+﻿:lipstick: es6 study :lipstick:
 ===============
 
 <p align="center">
@@ -39,7 +39,6 @@ run a WebStorm browser preview
     ├── build
     ├── gulp
     ├── node_modules
-    └── source
     └── source
         └── javascript files
 
