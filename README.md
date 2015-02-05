@@ -2,7 +2,7 @@
 ===============
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hisasann/middleman-browserify-gulp-boilerplate/master/middleman.png">
+  <img src="https://raw.githubusercontent.com/hisasann/es6-study/master/image.png">
 </p>
 
 ## Overview
